@@ -1,0 +1,93 @@
+@media all and (max-width:500px) {
+    a {
+        text-decoration: none;
+    }
+    .start_text {
+    position: absolute;
+    left: 350px;
+    top: 50px;
+    
+    
+    
+    }
+    .view_region {
+        position:absolute;
+    color:black;
+    
+        left: 100px;
+        top: 150px;
+     font-size: 20px;
+    }
+    .info_or_site {
+        position:absolute;
+        color:black;
+        
+            left: 590px;
+            top: 150px;
+         font-size: 0px;
+    }
+
+    .maps_car {
+        position: absolute;
+        top: 200px;
+        left: 0px;
+    
+        height: 550px;
+        width: 890px;
+    }
+    .numbers {
+        position: absolute;
+        top: 800px;
+        height: 500px;
+        width: 890px;
+    }
+    .view_my_region {
+    position: absolute;
+    color: white;
+    
+    top: 400px;
+    left: 300px;
+    }
+    #info_site {
+        position: absolute;
+        top: 750px;
+        left: 375px;
+        font-size: 0px;
+    }
+    .info_text {
+        position: absolute;
+        
+        
+        top: 1400px;
+        font-size: 20px;
+        left: 100px;
+    }
+    .info_text:hover {
+        color: white;
+    }
+    .hover:hover {
+        color: green;
+    } 
+    .hover:focus {
+        color: green;
+    }
+    .gray_color {
+        position: absolute;
+        top: 1400px;
+        height: 150px;
+        width: 890px;
+    }
+    .phone {
+        position: absolute;
+        top: 1400px;
+        left: 400px;
+     width: 500px;
+        color: gray;
+    }
+    .e_mail {
+        position: absolute;
+        top: 1430px;
+        left: 400px;
+        color: gray;
+         }
+}
